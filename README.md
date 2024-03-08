@@ -1,4 +1,4 @@
-###### Mi primer proyecto utilizando TypeScript
+##### *Mi primer proyecto utilizando TypeScript*
 
 Trate de hacer lo más sencillo para mostrar mis conocimientos pero aun falta completarlo, como verán falta la documentación y los testeos , pronto lo tendre completo.
 
